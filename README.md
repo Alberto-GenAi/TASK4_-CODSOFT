@@ -2,7 +2,7 @@
 
 ## Author: DHARM PRAKASH
 
-## Batch: July- August 2025
+## Batch: July 2025
 
 ## Domain: Data Science
 
